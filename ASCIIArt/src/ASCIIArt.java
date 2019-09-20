@@ -18,10 +18,15 @@
 
 public class ASCIIArt {
 	public static void main (String [] args) {
-		System.out.println("THIS IS MY ASCII ART!!!!");
-		System.out.println("THIS IS MY ASCII ART!!!!");
-		System.out.println("THIS IS MY ASCII ART!!!!");
-		System.out.println("THIS IS MY ASCII ART!!!!");
+		//add code here
+		System.out.println("     _____        ________     ________     _______    _______      ");
+		System.out.println("    / ___ \\      |  ______|   |  ______|   |__   __|  |__   __|          ");
+		System.out.println("   / /__ \\ \\     | |______    | |             | |        | |        ");
+		System.out.println("  /  _____  \\    |______  |   | |             | |        | |        ");
+		System.out.println(" / /       \\ \\    ______| |   | |______     __| |__    __| |__            ");
+		System.out.println("/ /         \\ \\  |________|   |________|   |_______|  |_______|             ");
 		System.out.println("THIS IS MY ASCII ART!!!!");
 	}
 }
+
+//ascii art of block letters saying "asci art"
